@@ -18,3 +18,13 @@ Sonraki eleman "5", 7'den küçük olduğundan ilk rootun soluna yazılır.
 4, 5'ten küçük, 3'ten büyük olduğu için 3'ün sağına yazılır.
 
 2, 3'ten küçük olduğu için soluna yazılır.
+
+       7
+      / \
+    5     8 
+   /   \    \
+  1     6    9
+ /     /
+0     3
+     /  \
+    2     4 
